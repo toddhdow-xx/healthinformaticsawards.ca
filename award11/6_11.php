@@ -28,7 +28,9 @@ function closeWindow() {
     <td colspan="2"><img src="../images/line.gif" width="410" height="1" alt="PROJECT TEAM - PATIENT CARE INNOVATION AWARD" border="0"></td>
 </tr>
 <tr>
-    <td class="b" align="justify"><p>The Project Implementation Team of the Year Award was established to recognize a for-profit Healthcare ICT company/client team that has successfully implemented a health-IT solution at a healthcare organization within the past 12 months. This annual Award honours the private and public sector team effort and recognizes the team delivery of the solution on time and within budget, working effectively together in its implementation. </p>
+    <td class="b" align="justify"><p>ITAC Health has established the Project Team – Patient Care Innovation Award to recognize a for-profit healthcare ICT Company and client team that has successfully implemented a health-IT solution at a healthcare organization that has positively impacted on patient care in innovative ways.  This Award will honour the private and public sector team effort. </p>
+    
+<!-- The Project Implementation Team of the Year Award was established to recognize a for-profit Healthcare ICT company/client team that has successfully implemented a health-IT solution at a healthcare organization within the past 12 months. This annual Award honours the private and public sector team effort and recognizes the team delivery of the solution on time and within budget, working effectively together in its implementation. </p -->
 	
 </td><!-- -->
     <td class="b" align="center"><img src="images_11/6.jpg" width="250"  alt="PROJECT TEAM - PATIENT CARE INNOVATION AWARD - ONTARIO SHORES CENTRE FOR MENTAL HEALTH SCIENCES AND HEALTHTECH CONSULTANTS - PROJECT EASIER" border="0"><br /><b>PROJECT TEAM - PATIENT CARE INNOVATION AWARD</b> <br />

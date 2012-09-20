@@ -16,35 +16,21 @@ include "body_header.php";
 	   </style>
 	   <br /><a href="/pdf/2010_CHIA_Poster.pdf"  ><img src="images/2010_CHIA_Poster_small.jpg" border="1" bordercolor="black"/><br />View the Poster</a><br/></p>-->
 	   <!-- p align="center"><img src="images/2011_CHIA_Banner.jpg" border="0" alt="The 7th annual CANADIAN HEALTH INFORMATICS AWARDS (CHIA) GALA"><br/-->
-	   <p align="center"><img src="images/2011-CHIA-Index-Body.jpg" border="0" alt="The 7th annual CANADIAN HEALTH INFORMATICS AWARDS (CHIA) GALA"><br/>
+	   <p align="center"><img src="images/2012-CHIA-Index-Body.jpg" border="0" alt="The 7th annual CANADIAN HEALTH INFORMATICS AWARDS (CHIA) GALA"><br/>
 	   </p>
 
 <p>
-<font size ="3"><B>Wednesday, November 9, 2011<BR>
+<font size ="3"><B>Wednesday, November 7, 2012<BR>
 Royal York Hotel, 100 Front Street West, Toronto<BR>
 <BR>
 Cocktails at 6:00pm followed by dinner and awards<BR>
 <BR>
-For more information, contact <a href="mailto:info@healthinformaticsawards.ca">info@healthinformaticsawards.ca</a><BR> or 905 981 0724<BR></B></font>
+For more information, contact <a href="mailto:info@healthinformaticsawards.ca">info@healthinformaticsawards.ca</a><BR> or 416 707 4404<BR></B></font>
 </p>
 
 <hr>
 
-<p align="left">The 7<sup>th</sup> annual CANADIAN HEALTH INFORMATICS AWARDS (CHIA) GALA, proudly co-hosted by <a href="http://www.itac.ca/health" target="_blank">ITAC Health</a>, the Information Technology Association of Canada, and <a href="http://www.coachorg.com" target="_blank">COACH</a>: Canada's Health Informatics Association, will be hosted this year on Wednesday, November 9, 2011 at the Royal York Hotel, 100 Front Street West, Toronto.</p>
-
-<p align="left">Cocktails at 6 pm, followed by Dinner & Awards Presentation</p>
-
-<p align="left"><B><a href="https://secure.coachorg.com/career_development/awards_&_scholarships/peer_recognition.htm" target="indaward1">COACH Health Awards</a></B></p>
-
-<!--p>To submit a nomination for the <B>2011 ITAC Health Awards</B>, please download a nomination form by clicking on the award category below:<BR>
-<a href="pdf/2011/Corporate_Citizenship_Award.pdf">Corporate Citizenship Award</a><BR>
-<a href="pdf/2011/Project%20Team%20-%20Innovation%20and%20Care%20Delivery%20Award.pdf">Project Team - Innovation and Care Delivery Award</a><BR>
-<a href="pdf/2011/Project%20Team%20-%20Implementation%20Award.pdf">Project Team - Implementation Award</a><BR>
-<a href="pdf/2011/Project%20Team%20-%20Patient%20Care%20Innovation%20Award%20(2).pdf">Project Team - Patient Care Innovation Award</a><BR></P-->
-
-<p align="left"><B><a href="awards_nominations.php">ITAC Health Awards</a></B></p>
-
-<!--p align="left"><B><a href="https://secure.coachorg.com/Career_Development/awards_&_scholarships/itac_health_awards.htm" target="indaward2">ITAC Health Awards</a></B></p-->
+<p>Award nominations will open in June 2012</p>
 
 <hr>
 <p align="left">Celebrating the outstanding achievements and excellence in the Canadian Health Informatics industry, the CHIA Gala recognizes and honours the contributions of individuals and companies in the efficient use of information technology to improve the health of all Canadians.</p>
@@ -62,7 +48,7 @@ For more information, contact <a href="mailto:info@healthinformaticsawards.ca">i
 
 <p align="left">For further information contact:<BR>
 TK Events Inc.<BR>
-Phone 905 981 0724<BR>
+Phone 416 707 4404<BR>
 info@healthinformaticsawards.ca.</p>
 
 

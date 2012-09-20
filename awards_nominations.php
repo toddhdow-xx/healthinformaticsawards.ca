@@ -6,65 +6,6 @@ include "body_left.php";
 include "body_header.php";
 ?>
 
-
-<!--tr bgcolor="#866B3E">
-	<td class="c"><font color="#FFFFFF">&nbsp;&nbsp;Awards</font></td>
-</tr-->
-<!--tr>
-<td class="b" colspan="2">
-<div style="padding: 0px 10px 0px 10px;">
-<p>Please return in July for information on the 2011 Awards.</p-->
-<!-- 2010 content -->
-<!-- 
-<p align="left"><a href="http://www.itac.ca/health" target="_blank"><img src="images/itac_logo.gif" width="230" height="52" alt="ITAC" border="0"></a><br/><br/><b>ITAC Health Awards</b><br/>
-The following ITAC Health Awards will be presented at the 2010 Canadian Health Informatics Awards Gala. Following the links will lead you to more information regarding award descriptions, eligibility, criteria and the application process and application deadlines.<br/>
-<ul>
-	<li><a href="pdf/ITAC Health Application - Company of the Year 2010.pdf" target="_blank">Company of the Year</a></li>
-	<li><a href="pdf/ITAC Health Application - Corporate Citizenship Award 2010.pdf" target="_blank">Corporate Citizenship</a>
-		<ul style="list-style-type:disc;">
-			<li>Multi-National Company</li>
-			<li>Major Canadian Company</li>
-			<li>Small to Medium Enterprises</li>
-		</ul>	
-	</li>		
-	<li><a href="pdf/ITAC Health Application - Project Team of the Year Award 2010.pdf" target="_blank">Project Implementation Team of the Year</a></li>
-	<li><a href="pdf/ITAC Health Application - Healthcare Transformation Award 2010.pdf" target="_blank">Healthcare Transformation</a></li>
-</ul>
-<p align="left"><a href="http://www.coachorg.com" target="_blank"><img src="images/coach_logo_new.jpg" alt="COACH" border="0"></a><br/><br/><b>COACH Awards</b><br/>
-The following COACH Awards will be presented at the 2010 Canadian Health Informatics Awards Gala. Following the links will lead you to more information regarding award descriptions, eligibility, criteria, the application process and application deadlines.
-<ul>
--->
-<!-- /2010 content -->
-
-<!-- previously commented out (pre-2010) -->
-	<!--
-	<li><a href="https://secure.coachorg.com/CTF/awards/award_of_excellence.htm" target="_BLANK">Excellence in Canadian Telehealth</a></li>
-	<li><a href="https://secure.coachorg.com/CTF/awards/award_for_innovative_use_of_store_and_forward_technology.htm" target="_BLANK">Innovative Use of Store and Forward Technology</a></li>
-	<li><a href="https://secure.coachorg.com/CTF/awards/telehealth_technology_innovation_award.htm" target="_BLANK">Telehealth Technology Innovation</a></li>
-	<li><a href="https://secure.coachorg.com/CTF/awards/best_innovation_in_technology_and_learning.htm" target="_BLANK">Best Innovation in Technology and Learning</a></li>
-	-->
-<!-- /previously commented out )(pre-2010) -->
-
-<!-- 2010 content -->
-<!--
-	<li><a href="https://secure.coachorg.com/Career_Development/awards_&_scholarships/best_innovation_in_technology_&_learning.htm" target="_BLANK">Best Innovation in Technology and Learning</a></li>
-	<li><a href="https://secure.coachorg.com/default.asp?id=790" target="_blank">Community-Based Physician Leader/Innovator</a></li>
-	<li><a href="https://secure.coachorg.com/default.asp?id=713" target="_blank">Emerging Leader in Health Informatics</a></li>
-	<li><a href="https://secure.coachorg.com/Career_Development/awards_&_scholarships/excellence_in_canadian_telehealth.htm" target="_BLANK">Excellence in Canadian Telehealth</a></li>
-	<li><a href="https://secure.coachorg.com/default.asp?id=712" target="_blank">Innovation in the Adoption of Health Informatics</a></li>
-	<li><a href="https://secure.coachorg.com/Career_Development/awards_&_scholarships/innovative_use_of_store_&_forward_technology.htm" target="_BLANK">Innovative Use of Store and Forward Technology</a></li>
-	<li><a href="https://secure.coachorg.com/default.asp?id=711" target="_blank">Leadership in the Field of Health Informatics</a></li>
-	<li><a href="https://secure.coachorg.com/default.asp?id=714" target="_blank">President’s Award</a></li>
-	<li><a href="https://secure.coachorg.com/Career_Development/awards_&_scholarships/teleheath_technology_innovation_.htm" target="_BLANK">Telehealth Technology Innovation</a></li>	
-	<li><a href="https://secure.coachorg.com/default.asp?id=627" target="_blank">Steven Huesing Scholarship</a></p></li>
-</ul> 
--->
-<!-- /2010 content -->
-
-<!-- previously commented out (pre-2010) -->
-<!--<p align="left">"The awards provide our industry with an ideal opportunity to pay tribute to the imagination, resourcefulness and leadership that is so important in health informatics," says COACH President Linda Miller. "With the rapid pace of change in our field, it is more important than ever to recognize outstanding efforts by our colleagues. COACH calls on HI professionals across the country to nominate deserving colleagues and projects from their organization, health authority, community and province or territory."</p>-->
-<!-- /previously commented out (pre-2010) -->
-
 </div>
 </td>
 </tr>
@@ -74,13 +15,14 @@ The following COACH Awards will be presented at the 2010 Canadian Health Informa
 <tr>
 <td class="b" colspan="2">
 	<div style="padding: 0px 10px 0px 10px;">
-		<p>Please click <a href="https://secure.coachorg.com/career_development/awards_&_scholarships/peer_recognition.htm" target="new_award1">here</a> to submit a nomination for the  <a href="https://secure.coachorg.com/career_development/awards_&_scholarships/peer_recognition.htm" target="new_award2">2011 COACH Health Awards.</a>.</p>
+	<p>Award nominations will open in June 2012</p>
+		<!-- p>Please click <a href="https://secure.coachorg.com/career_development/awards_&_scholarships/peer_recognition.htm" target="new_award1">here</a> to submit a nomination for the  <a href="https://secure.coachorg.com/career_development/awards_&_scholarships/peer_recognition.htm" target="new_award2">2011 COACH Health Awards.</a>.</p>
 
 <p>To submit a nomination for the <B>2011 ITAC Health Awards</B>, please download a nomination form by clicking on the award category below:<BR>
 <a href="pdf/2011/Corporate_Citizenship_Award.pdf">Corporate Citizenship Award</a><BR>
 <a href="pdf/2011/Project%20Team%20-%20Innovation%20and%20Care%20Delivery%20Award.pdf">Project Team - Innovation and Care Delivery Award</a><BR>
 <a href="pdf/2011/Project%20Team%20-%20Implementation%20Award.pdf">Project Team - Implementation Award</a><BR>
-<a href="pdf/2011/Project%20Team%20-%20Patient%20Care%20Innovation%20Award%20(2).pdf">Project Team - Patient Care Innovation Award</a><BR></P>
+<a href="pdf/2011/Project%20Team%20-%20Patient%20Care%20Innovation%20Award%20(2).pdf">Project Team - Patient Care Innovation Award</a><BR></P-->
 
 		<!-- p>Please click <a href="https://secure.coachorg.com/Career_Development/awards_&_scholarships/itac_health_awards.htm" target="new_award3">here</a> for information on the <a href="https://secure.coachorg.com/Career_Development/awards_&_scholarships/itac_health_awards.htm" target="new_award4">2011 ITAC Health Awards</a>.</p-->
 	</div>
