@@ -1,0 +1,1 @@
+<img src="images/CHIA_Side_Banner_2011_c.jpg" border="0" />
