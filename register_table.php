@@ -13,11 +13,11 @@ include "body_header.php";
 <td class="b" colspan="2">
 
 <div style="padding: 0px 10px 0px 10px;">
-<BR><h1 class="ss-form-title">CHIA 2011 registration - Table(s) of 10</h1>
-<p align="left">Thank you for your interest in CHIA 2011. Please complete this form and click submit at the bottom. A member of our registration team will be in touch within 48 hours to deliver an invoice and collect payment.</p>
+<BR><h1 class="ss-form-title">CHIA 2012 registration - Table(s) of 10</h1>
+<p align="left">Thank you for your interest in CHIA 2012. Please complete this form and click submit at the bottom. A member of our registration team will be in touch within 48 hours to deliver an invoice and collect payment. Payment is in the form of cheque. Further instructions will be provided with your invoice by a member of our registration team.</p>
 
 <p align="left">If you have any questions, comments or concerns, do not hesitate to contact us directly at  <a href="mailto:info@healthinformaticsawards.ca"> info@healthinformaticsawards.ca</a>.
-
+			
 <link href='/static/spreadsheets/client/css/779923916-published_form_compiled.css' type='text/css' rel='stylesheet'>
 <link href='/static/spreadsheets/client/css/779923916-published_form_compiled.css' type='text/css' rel='stylesheet'>
 </head>
@@ -172,7 +172,7 @@ Vegan</label></li>
 <table>
 <tr><td>
 <br> <div class="errorbox-good">
-<div class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label class="ss-q-title" for="entry_13">Special Needs
+<div class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label class="ss-q-title" for="entry_13">Please list guest names and any dietary restrictions
 </label>
 <label class="ss-q-help" for="entry_13"></label>
 <textarea name="entry.13.single" rows="5" cols="50" class="ss-q-long" id="entry_13"></textarea></div></div></div>

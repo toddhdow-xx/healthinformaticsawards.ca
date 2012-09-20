@@ -2,7 +2,7 @@
 
 <html>
 <head>
-	<title>Canadian Health Informatics Awards Gala 2011 | <? print $page_title; ?></title>
+	<title>Canadian Health Informatics Awards Gala | <? print $page_title; ?></title>
 	
 <link rel="stylesheet" href="styles.css" type="text/css">	
 <link rel="stylesheet" type="text/css" href="css/jquery.lightbox-0.5.css" media="screen" />

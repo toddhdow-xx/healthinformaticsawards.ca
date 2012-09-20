@@ -13,7 +13,7 @@ include "body_header.php";
 <td class="b" colspan="2">
 <div style="padding: 0px 10px 0px 10px;">
 
-<p align="left">A limited number of individual tickets and tables of 10 can be purchased for the CHIA Gala 2011.</p>
+<p align="left">A limited number of individual tickets and tables of 10 can be purchased for the CHIA Gala 2012.</p>
 
 <p align="left">This elegant evening will feature a cocktail reception followed by a sumptuous dinner with wine and the presentation of awards.</p>
 

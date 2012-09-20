@@ -5,7 +5,8 @@
 <a href="pdf/CHIA Sponsorship 2011.pdf" target="_blank">Download Sponsorship Package</a> | <a href="/sponsorship_advertising.php" >Sponsorship Opportunities</a> | <a href="/sponsorship_levels.php">Sponsorship Levels</a> | <a href="/sponsorship_advertising.php#advertising">Advertising</a> | <a href="http://www.healthinformaticsawards.ca/healthinformaticsawards/register/registration.php" target="_blank">Sponsorship & Advertising Confirmation</a>
 -->
 
-<a href="pdf/CHIA Sponsorship 2011.pdf" target="_blank">Download Sponsorship Package</a><!-- | <a href="tickets.php" target="_blank">Sponsorship Confirmation</a> -->
+<a href="pdf/2012/CHIA Sponsorship  Package 2012 FINAL.pdf" target="_blank">Download Sponsorship Package</a>
+<!-- | <a href="tickets.php" target="_blank">Sponsorship Confirmation</a> -->
 
 </div>
 </td>

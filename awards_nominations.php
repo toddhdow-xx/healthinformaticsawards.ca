@@ -10,12 +10,31 @@ include "body_header.php";
 </td>
 </tr>
 <tr bgcolor="#866B3E">
-	<td class="c"><font color="#FFFFFF">&nbsp;&nbsp;Nominations</font></td>
+	<td class="c"><font color="#FFFFFF">&nbsp;&nbsp;2012 Nominations</font></td>
 </tr>
 <tr>
 <td class="b" colspan="2">
 	<div style="padding: 0px 10px 0px 10px;">
-	<p>Award nominations will open in June 2012</p>
+	<p>
+	Here are the 2012 award categories:<BR>
+	<ul>
+	<li><a href="2012-clinician-leadership-award.php">Clinician Leadership Award</a></li>
+	<li><a href="2012-corporate-citizenship-award.php">Corporate Citizenship Award</a></li>
+	<li><a href="2012-emerging-leader-in-health-informatics-award.php">Emerging Leader in Health Informatics Award</a></li>
+	<li><a href="2012-excellence-in-canadian-telehealth-award.php">Excellence in Canadian Telehealth Award</a></li>
+	<li><a href="2012-innovation-in-the-adoption-of-health-informatics-award.php">Innovation in the Adoption of Health Informatics Award</a></li>
+	<li><a href="2012-leadership-in-the-field-of-health-informatics-award.php">Leadership in the Field of Health Informatics Award</a></li>
+	<li><a href="2012-project-team-implementation-award.php">Project Team - Implementation Award</a></li>
+	<li><a href="2012-project-team-innovation-and-care-delivery-award.php">Project Team - Innovation and Care Delivery Award</a></li>
+	<li><a href="2012-project-team-patient-care-innovation-award.php">Project Team - Patient Care Innovation Award</a></li>
+	<li><a href="2012-telehealth-technology-innovation.php">Telehealth Technology Innovation</a></li>
+	<li><a href="2012-steven-huesing-scholarship.php">Steven Huesing Scholarship</a></li>
+	</ul>
+	Click on the award categories above for further information and to submit a nomination.
+
+	</p>
+
+
 		<!-- p>Please click <a href="https://secure.coachorg.com/career_development/awards_&_scholarships/peer_recognition.htm" target="new_award1">here</a> to submit a nomination for the  <a href="https://secure.coachorg.com/career_development/awards_&_scholarships/peer_recognition.htm" target="new_award2">2011 COACH Health Awards.</a>.</p>
 
 <p>To submit a nomination for the <B>2011 ITAC Health Awards</B>, please download a nomination form by clicking on the award category below:<BR>

@@ -13,13 +13,11 @@ include "body_header.php";
 <td class="b" colspan="2">
 
 <div style="padding: 0px 10px 0px 10px;">
-<BR><h1 class="ss-form-title">CHIA 2011 registration - Individual Tickets</h1>
-<p align="left">Thank you for your interest in CHIA 2011. Please select the number of tickets you wish to order, your method of payment, complete this form and click submit at the bottom.<BR>
+<BR><h1 class="ss-form-title">CHIA 2012 registration - Individual Tickets</h1>
+<p align="left">Thank you for your interest in CHIA 2012. Please select the number of tickets you wish to order, your method of payment, complete this form and click submit at the bottom.<BR>
 <BR>
-If you select cheque for payment, a member of our registration team will be in touch within 48 hours to deliver an invoice and collect payment.<BR>
+Payment is accepted in the form of cheque. Further instructions will be provided with your invoice by a member of our registration team.<BR>
 <BR>
-If you select Paypal for payment, follow the prompts on the next page, which will redirect you to Paypal for payment. Once your Paypal payment is complete,  you will be redirected back to this site for a final confirmation that your order has been placed, along with instructions for next steps.<BR>
-</p>
 
 <p align="left">If you have any questions, comments or concerns, do not hesitate to contact us directly at  <a href="mailto:info@healthinformaticsawards.ca"> info@healthinformaticsawards.ca</a>.
 </p>
@@ -62,7 +60,7 @@ If you select Paypal for payment, follow the prompts on the next page, which wil
 </td><td>
 <select name="entry.18.single" id="entry_18">
 <option value="Cheque">Cheque</option>
-<option value="Paypal">Paypal</option>
+<!-- option value="Paypal">Paypal</option -->
 </select></div></div></div>
 </td></tr>
 <tr><td><BR></td><td><BR></td></tr>
