@@ -63,12 +63,6 @@ Tel: 519 217 3237<BR>
 
 <B>Visionaries</B><BR>
 <!-- table border=0>
-<tr><td><a href="http://www.accenture.com/insightdrivenhealth" target="spon1"><img src="images/AccLogo2011.jpg" width="150px" align="right" style="border: none"></a></td>
-<td class="b">
-Insight driven health is the foundation of more effective, efficient and affordable healthcare. That's why healthcare providers and health plans choose Accenture for a wide range of insight driven health services that help them use knowledge in new ways--from the back office to the doctor's office. Visit: <a href="http://www.accenture.com/insightdrivenhealth" target="spon2">www.accenture.com/insightdrivenhealth</a>
-</td>
-</tr>
-<tr><td><BR></td></tr>
 <tr><td><a href="http://www.cerner.ca" target="vis2"><img src="images/cerner_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
 <td class="b">
 Cerner is contributing to the systemic change of health and care delivery. For more than 30 years Cerner has been executing its vision to make health care safer and more efficient. We started with the foundation of digitizing paper processes and now offer the most comprehensive array of information software, professional services, medical device integration, remote hosting and employer health and wellness services. Cerner systems are used by everyone from individual consumers, to single-doctor practices, hospitals, employers and entire countries. Taking what we’ve learned over more than three decades, Cerner is building on the knowledge that is in the system to support evidence-based clinical decisions, prevent medical errors and empower patients in their care. Visit <a href="http://www.cerner.ca" target="vis2">www.cerner.ca</a> to learn more.</td>
@@ -91,16 +85,22 @@ GE Healthcare&#39;s connected and coordinated healthcare ecosystem is central to
 <td class="b">
 McKesson Canada is a leading provider of healthcare services and healthcare information technology solutions, dedicated to helping customers deliver high quality healthcare and improve the safety of patient care.  McKesson Canada connects every facet of the healthcare system, from hospitals and pharmacies to physicians and patients. For more information go to <a href="http://www.mckesson.ca" target="arc1">www.mckesson.ca</a></td>
 </tr>
-<!--tr><td><BR></td></tr>
-<tr><td><a href="http://www.agfa.com/healthcare/" target="agfa"><img src="images/agfa_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
+<tr><td><BR></td></tr>
+<tr><td><a href="http://www.accenture.com/insightdrivenhealth" target="spon1"><img src="images/AccLogo2012.jpg" width="150px" align="right" style="border: none"></a></td>
 <td class="b">
-Agfa HealthCare provides solutions that improve the delivery of healthcare in Canada.  Our solutions include the storage, distribution and display of all medical images across local and wide area networks using Agfa&#39;s IMPAX&#8482; PACS and IMPAX Data Center&#8482; and the integration of these images into the EHR/EMR.  Complimentary solutions including Radiology Information Systems, Voice Recognition and Scheduling solutions help bring the highest value to our customers. For further information, visit: <a href="http://www.agfa.com/healthcare/" target="agfa">agfa.com/healthcare/</a>
+Accenture is a global management consulting, technology services and outsourcing company, with more than 249,000 people serving clients in more than 120 countries.  Combining unparalleled experience, comprehensive capabilities across all industries and business functions, and extensive research on the world’s most successful companies, Accenture collaborates with clients to help them become high-performance businesses and governments.  The company generated net revenues of US$25.5 billion for the fiscal year ended Aug. 31, 2011. Its home page is <a href="http://www.accenture.com" target="spon_Acc">www.accenture.com</a>.
 </td>
 </tr>
 <tr><td><BR></td></tr>
-<tr><td><a href="http://www.blg.com/hss" target="spon3"><img src="images/BLG_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
+<!--tr><td><a href="http://www.blg.com/hss" target="spon3"><img src="images/BLG_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
 <td class="b">
-Borden Ladner Gervais LLP is the largest Canadian full-service law firm focusing on business law, litigation and intellectual property solutions. We have one of the largest teams providing legal services - including health informatics and information technology services - to the Canadian health sector. For further information, visit: <a href="http://www.blg.com/hss" target="spon3">blg.com/hss</a>
+Borden Ladner Gervais LLP (BLG) is a pre-eminent full-service, national law firm focusing on business law, commercial litigation and intellectual property solutions for our clients. We have one of the largest teams providing legal services - including health informatics and information technology services - to the Canadian health sector. For further information, visit <a href="http://blg.com/hss" target="spon_blg">blg.com/hss</a>.
+</td>
+</tr>
+<tr><td><BR></td></tr>
+<tr><td><a href="http://www.agfa.com/healthcare/" target="agfa"><img src="images/agfa_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
+<td class="b">
+Agfa HealthCare provides solutions that improve the delivery of healthcare in Canada.  Our solutions include the storage, distribution and display of all medical images across local and wide area networks using Agfa&#39;s IMPAX&#8482; PACS and IMPAX Data Center&#8482; and the integration of these images into the EHR/EMR.  Complimentary solutions including Radiology Information Systems, Voice Recognition and Scheduling solutions help bring the highest value to our customers. For further information, visit: <a href="http://www.agfa.com/healthcare/" target="agfa">agfa.com/healthcare/</a>
 </td>
 </tr>
 <tr><td><BR></td></tr>
