@@ -92,13 +92,13 @@ Accenture is a global management consulting, technology services and outsourcing
 </td>
 </tr>
 <tr><td><BR></td></tr>
-<!--tr><td><a href="http://www.blg.com/hss" target="spon3"><img src="images/BLG_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
+<tr><td><a href="http://www.blg.com/hss" target="spon3"><img src="images/BLG_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
 <td class="b">
 Borden Ladner Gervais LLP (BLG) is a pre-eminent full-service, national law firm focusing on business law, commercial litigation and intellectual property solutions for our clients. We have one of the largest teams providing legal services - including health informatics and information technology services - to the Canadian health sector. For further information, visit <a href="http://blg.com/hss" target="spon_blg">blg.com/hss</a>.
 </td>
 </tr>
 <tr><td><BR></td></tr>
-<tr><td><a href="http://www.agfa.com/healthcare/" target="agfa"><img src="images/agfa_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
+<!--tr><td><a href="http://www.agfa.com/healthcare/" target="agfa"><img src="images/agfa_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
 <td class="b">
 Agfa HealthCare provides solutions that improve the delivery of healthcare in Canada.  Our solutions include the storage, distribution and display of all medical images across local and wide area networks using Agfa&#39;s IMPAX&#8482; PACS and IMPAX Data Center&#8482; and the integration of these images into the EHR/EMR.  Complimentary solutions including Radiology Information Systems, Voice Recognition and Scheduling solutions help bring the highest value to our customers. For further information, visit: <a href="http://www.agfa.com/healthcare/" target="agfa">agfa.com/healthcare/</a>
 </td>
