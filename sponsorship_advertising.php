@@ -86,12 +86,12 @@ GE Healthcare&#39;s connected and coordinated healthcare ecosystem is central to
 McKesson Canada is a leading provider of healthcare services and healthcare information technology solutions, dedicated to helping customers deliver high quality healthcare and improve the safety of patient care.  McKesson Canada connects every facet of the healthcare system, from hospitals and pharmacies to physicians and patients. For more information go to <a href="http://www.mckesson.ca" target="arc1">www.mckesson.ca</a></td>
 </tr>
 <tr><td><BR></td></tr>
-<tr><td><a href="http://www.accenture.com/insightdrivenhealth" target="spon1"><img src="images/AccLogo2012.jpg" width="150px" align="right" style="border: none"></a></td>
+<!-- tr><td><a href="http://www.accenture.com/insightdrivenhealth" target="spon1"><img src="images/AccLogo2012.jpg" width="150px" align="right" style="border: none"></a></td>
 <td class="b">
 Accenture is a global management consulting, technology services and outsourcing company, with more than 249,000 people serving clients in more than 120 countries.  Combining unparalleled experience, comprehensive capabilities across all industries and business functions, and extensive research on the world’s most successful companies, Accenture collaborates with clients to help them become high-performance businesses and governments.  The company generated net revenues of US$25.5 billion for the fiscal year ended Aug. 31, 2011. Its home page is <a href="http://www.accenture.com" target="spon_Acc">www.accenture.com</a>.
 </td>
 </tr>
-<tr><td><BR></td></tr>
+<tr><td><BR></td></tr-->
 <tr><td><a href="http://www.blg.com/hss" target="spon3"><img src="images/BLG_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
 <td class="b">
 Borden Ladner Gervais LLP (BLG) is a pre-eminent full-service, national law firm focusing on business law, commercial litigation and intellectual property solutions for our clients. We have one of the largest teams providing legal services - including health informatics and information technology services - to the Canadian health sector. For further information, visit <a href="http://blg.com/hss" target="spon_blg">blg.com/hss</a>.
