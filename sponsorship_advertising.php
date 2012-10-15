@@ -86,7 +86,7 @@ GE Healthcare&#39;s connected and coordinated healthcare ecosystem is central to
 McKesson Canada is a leading provider of healthcare services and healthcare information technology solutions, dedicated to helping customers deliver high quality healthcare and improve the safety of patient care.  McKesson Canada connects every facet of the healthcare system, from hospitals and pharmacies to physicians and patients. For more information go to <a href="http://www.mckesson.ca" target="arc1">www.mckesson.ca</a></td>
 </tr>
 <tr><td><BR></td></tr>
-<tr><td><a href="http://www.agfahealthcare.com" target="agfa"><img src="images/agfa_logo_2012.jpg" width="150px" align="right" style="border: none"></a></td>
+<tr><td><a href="http://www.agfahealthcare.com" target="agfa"><img src="images/agfa_Logo_2012.jpg" width="150px" align="right" style="border: none"></a></td>
 <td class="b">
 With nearly a century of experience, Agfa HealthCare is a leading global provider of diagnostic imaging and healthcare IT solutions. The company's extensive portfolio of solutions includes Enterprise IT, RIS, PACS, CVIS, solutions for reporting, enterprise scheduling, and decision support, Direct Radiography (DR), Computed Radiography (CR), print, film and associated products. For further information, visit: <a href="http://www.agfahealthcare.com" target="agfa">www.agfahealthcare.com</a>
 </td>
