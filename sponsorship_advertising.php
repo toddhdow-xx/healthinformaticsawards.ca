@@ -86,25 +86,26 @@ GE Healthcare&#39;s connected and coordinated healthcare ecosystem is central to
 McKesson Canada is a leading provider of healthcare services and healthcare information technology solutions, dedicated to helping customers deliver high quality healthcare and improve the safety of patient care.  McKesson Canada connects every facet of the healthcare system, from hospitals and pharmacies to physicians and patients. For more information go to <a href="http://www.mckesson.ca" target="arc1">www.mckesson.ca</a></td>
 </tr>
 <tr><td><BR></td></tr>
-<!-- tr><td><a href="http://www.accenture.com/insightdrivenhealth" target="spon1"><img src="images/AccLogo2012.jpg" width="150px" align="right" style="border: none"></a></td>
+<tr><td><a href="http://www.agfahealthcare.com" target="agfa"><img src="images/agfa_logo_2012.jpg" width="150px" align="right" style="border: none"></a></td>
 <td class="b">
-Accenture is a global management consulting, technology services and outsourcing company, with more than 249,000 people serving clients in more than 120 countries.  Combining unparalleled experience, comprehensive capabilities across all industries and business functions, and extensive research on the world’s most successful companies, Accenture collaborates with clients to help them become high-performance businesses and governments.  The company generated net revenues of US$25.5 billion for the fiscal year ended Aug. 31, 2011. Its home page is <a href="http://www.accenture.com" target="spon_Acc">www.accenture.com</a>.
+With nearly a century of experience, Agfa HealthCare is a leading global provider of diagnostic imaging and healthcare IT solutions. The company's extensive portfolio of solutions includes Enterprise IT, RIS, PACS, CVIS, solutions for reporting, enterprise scheduling, and decision support, Direct Radiography (DR), Computed Radiography (CR), print, film and associated products. For further information, visit: <a href="http://www.agfahealthcare.com" target="agfa">www.agfahealthcare.com</a>
 </td>
 </tr>
-<tr><td><BR></td></tr-->
+<tr><td><BR></td></tr>
 <tr><td><a href="http://www.blg.com/hss" target="spon3"><img src="images/BLG_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
 <td class="b">
 Borden Ladner Gervais LLP (BLG) is a pre-eminent full-service, national law firm focusing on business law, commercial litigation and intellectual property solutions for our clients. We have one of the largest teams providing legal services - including health informatics and information technology services - to the Canadian health sector. For further information, visit <a href="http://blg.com/hss" target="spon_blg">blg.com/hss</a>.
 </td>
 </tr>
 <tr><td><BR></td></tr>
-<!--tr><td><a href="http://www.agfa.com/healthcare/" target="agfa"><img src="images/agfa_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
+<tr><td><a href="http://www.accenture.com/" target="spon1"><img src="images/AccLogo2012.jpg" width="150px" align="right" style="border: none"></a></td>
 <td class="b">
-Agfa HealthCare provides solutions that improve the delivery of healthcare in Canada.  Our solutions include the storage, distribution and display of all medical images across local and wide area networks using Agfa&#39;s IMPAX&#8482; PACS and IMPAX Data Center&#8482; and the integration of these images into the EHR/EMR.  Complimentary solutions including Radiology Information Systems, Voice Recognition and Scheduling solutions help bring the highest value to our customers. For further information, visit: <a href="http://www.agfa.com/healthcare/" target="agfa">agfa.com/healthcare/</a>
+Accenture is a global management consulting, technology services and outsourcing company, with 257,000 people serving clients in more than 120 countries.  Combining unparalleled experience, comprehensive capabilities across all industries and business functions, and extensive research on the world’s most successful companies, Accenture collaborates with clients to help them become high-performance businesses and governments.  The company generated net revenues of US$27.9 billion for the fiscal year ended Aug. 31, 2012.  Its home page is <a href="http://www.accenture.com" target="spon_Acc">www.accenture.com</a>.
 </td>
 </tr>
 <tr><td><BR></td></tr>
-<tr><td><a href="http://www.cgi.com/" target="spon4"><img src="images/CGI_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
+
+<!-- tr><td><a href="http://www.cgi.com/" target="spon4"><img src="images/CGI_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
 <td class="b">
 At CGI, we deliver a full suite of health IT solutions that improve the health industry. Our solutions reduce operating costs, advance the quality of care, and promote public health with an emphasis on electronic medical records (EMR), health information exchange (HIE), health insurance exchange, recovery audits, quality initiatives and operational efficiency improvements. As a trusted health IT services partner, governments, provincial ministries, hospitals, health systems, HIE organizations and health insurers rely on CGI's healthcare solutions and services to achieve success. For further information, visit: <a href="http://www.cgi.com/" target="spon4">cgi.com</a>
 </td>
@@ -139,12 +140,12 @@ Insight driven health is the foundation of more effective, efficient and afforda
 
 
 <B>Supporting Organization</B><BR>
-<!-- table border=0>
+<table border=0>
 <tr><td width="150px">&nbsp;</td>
 <td colspan=2 align="center"><a href="http://www.backbonemag.com/" target="_blank"><img src="images/backbone_logo_2011.jpg" alt="Backbone Magazine" border="0"></a></td>
 </tr>
 </table>
-<BR -->
+<BR>
 <hr>
 </div>
 </td>
