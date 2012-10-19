@@ -31,6 +31,11 @@ Announcements
 <font size="2">
 <table width="100%">
 	<tr>
+		<td>October 18, 2012</td>
+		<td>Award Finalists have been announced!</a></td>
+	</tr>
+	<tr><td colspan="2"><hr></td></tr>
+	<tr>
 		<td>August 24, 2012</td>
 		<td>Sponsorship opportunities now available. Click <a href="http://www.healthinformaticsawards.ca/pdf/2012/CHIA%20Sponsorship%20%20Package%202012%20FINAL.pdf">here for sponsorship package</a></td>
 	</tr>

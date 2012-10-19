@@ -139,10 +139,14 @@ Insight driven health is the foundation of more effective, efficient and afforda
 <hr>
 
 
-<B>Supporting Organization</B><BR>
+<B>Supporting Organizations</B><BR>
 <table border=0>
 <tr><td width="150px">&nbsp;</td>
-<td colspan=2 align="center"><a href="http://www.backbonemag.com/" target="_blank"><img src="images/backbone_logo_2011.jpg" alt="Backbone Magazine" border="0"></a></td>
+<td colspan=2 align="center"><a href="http://healthcareimc.com/" target="_blank"><img src="images/HCCC_logo_2010.gif" alt="Backbone Magazine" border="0" width="300px"></a></td>
+</tr>
+
+<tr><td width="150px">&nbsp;</td>
+<td colspan=2 align="center"><a href="http://www.backbonemag.com/" target="_blank"><img src="images/backbone_logo_2011.jpg" alt="Backbone Magazine" border="0" width="280px"></a></td>
 </tr>
 </table>
 <BR>
