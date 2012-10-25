@@ -62,21 +62,20 @@ Tel: 519 217 3237<BR>
 <hr>
 
 <B>Visionaries</B><BR>
-<!-- table border=0>
-<tr><td><a href="http://www.cerner.ca" target="vis2"><img src="images/cerner_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
-<td class="b">
-Cerner is contributing to the systemic change of health and care delivery. For more than 30 years Cerner has been executing its vision to make health care safer and more efficient. We started with the foundation of digitizing paper processes and now offer the most comprehensive array of information software, professional services, medical device integration, remote hosting and employer health and wellness services. Cerner systems are used by everyone from individual consumers, to single-doctor practices, hospitals, employers and entire countries. Taking what we’ve learned over more than three decades, Cerner is building on the knowledge that is in the system to support evidence-based clinical decisions, prevent medical errors and empower patients in their care. Visit <a href="http://www.cerner.ca" target="vis2">www.cerner.ca</a> to learn more.</td>
-</tr>
-</table -->
 <hr>
 
 <B>Architects</B><BR>
-<!-- table border=0>
+<table border=0>
+<tr><td><a href="http://www.cerner.ca" target="vis2"><img src="images/cerner_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
+<td class="b">
+Cerner is contributing to the systemic change of health and care delivery. For more than 30 years Cerner has been executing its vision to make health care safer and more efficient. Cerner systems are used by everyone from single-doctor practices to hospitals and entire countries. Visit <a href="http://www.cerner.ca" target="vis2">www.cerner.ca</a> to learn more.</td>
+</tr>
+<tr><td><BR></td></tr>
 <tr><td><a href="http://www.gehealthcare.com/canada/it" target="arc2"><img src="images/ge_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
 <td class="b">
-GE Healthcare&#39;s connected and coordinated healthcare ecosystem is central to realizing Canada's goals of improving healthcare access while reducing costs. GE Healthcare's clinically proven and standards based software and services portfolio can digitize care areas, interconnect points of care, and enhance care performance. Together we can empower healthcare providers and patients to transform care delivery and achieve high quality outcomes. For more information go to <a href="http://www.gehealthcare.com/canada/it" target="arc2">www.gehealthcare.com/canada/it</a></td>
+GE Healthcare is a global healthcare IT leader, with advanced expertise in clinical workflows, emerging industry standards and demonstrated implementation methodology. By collaborating with industry leaders the GE Healthcare&#39;s Centricity<sup>TM</sup> portfolio brings powerful tools that integrate across platforms to manage patient information and enable knowledge-based patient care. Healthcare IT Re-imagined. For more information go to <a href="http://www3.gehealthcare.com/en" target="arc2">www3.gehealthcare.com/en</a></td>
 </tr>
-</table -->
+</table>
 <hr>
 
 <B>Enhancers</B><BR>
@@ -104,16 +103,23 @@ Accenture is a global management consulting, technology services and outsourcing
 </td>
 </tr>
 <tr><td><BR></td></tr>
-
-<!-- tr><td><a href="http://www.cgi.com/" target="spon4"><img src="images/CGI_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
+<tr><td><a href="http://www.sensorytech.ca/" target="sponsen"><img src="images/sensory-tech.png" width="150px" align="right" style="border: none"></a></td>
 <td class="b">
-At CGI, we deliver a full suite of health IT solutions that improve the health industry. Our solutions reduce operating costs, advance the quality of care, and promote public health with an emphasis on electronic medical records (EMR), health information exchange (HIE), health insurance exchange, recovery audits, quality initiatives and operational efficiency improvements. As a trusted health IT services partner, governments, provincial ministries, hospitals, health systems, HIE organizations and health insurers rely on CGI's healthcare solutions and services to achieve success. For further information, visit: <a href="http://www.cgi.com/" target="spon4">cgi.com</a>
+Sensory Technologies provides systems that gives Clinicians, Home-care Service Providers, Community Health Administrators, and Bedside Caregivers the ability to capture, track, access and collaborate around critical client care-centric data. Our solutions enable clinicians, management, and health administrators unprecedented access to real-time care data resulting in lower operational costs, reduced hospital readmissions, increased system capacity, and true remote care-team integration.  Its home page is <a href="http://www.sensorytech.ca/" target="spon_Sen">sensorytech.ca</a>.
 </td>
 </tr>
 <tr><td><BR></td></tr>
 <tr><td><a href="http://www.orionhealth.com/" target="spon5"><img src="images/OrionHealth.jpg" width="150px" align="right" style="border: none"></a></td>
 <td class="b">
-A committed EHR innovator and contributor to many CHI-sponsored projects, Orion Health positively impacts millions of Canadians - and the providers who look after them. Through solutions like Rhapsody Integration Engine, Patient Portal, Electronic Health Record, and Clinical Portal, we&#39;re bridging the gap between providers and patients at all points of care. For further information, visit: <a href="http://www.orionhealth.com/" target="spon5">orionhealth.com</a>
+As a committed EHR innovator and contributor to CHI-sponsored projects, Orion Health positively impact millions of Canadians-and the providers who look after them. 
+Through solutions like Rhapsody Integration Engine, Patient Portal, Electronic Health Record, and Clinical Portal, we are bridging the gap between providers and engaging patients at all points of care. For further information, visit: <a href="http://www.orionhealth.com/" target="spon5">orionhealth.com</a>
+</td>
+</tr>
+<tr><td><BR></td></tr>
+
+<!-- tr><td><a href="http://www.cgi.com/" target="spon4"><img src="images/CGI_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
+<td class="b">
+At CGI, we deliver a full suite of health IT solutions that improve the health industry. Our solutions reduce operating costs, advance the quality of care, and promote public health with an emphasis on electronic medical records (EMR), health information exchange (HIE), health insurance exchange, recovery audits, quality initiatives and operational efficiency improvements. As a trusted health IT services partner, governments, provincial ministries, hospitals, health systems, HIE organizations and health insurers rely on CGI's healthcare solutions and services to achieve success. For further information, visit: <a href="http://www.cgi.com/" target="spon4">cgi.com</a>
 </td>
 </tr>
 <tr><td><BR></td></tr>
