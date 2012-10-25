@@ -21,7 +21,11 @@ Toronto M5J 1E3 <BR>
 <BR>
 <a href="http://www.fairmont.com/royal-york-toronto/map/mapanddirections/">Map &amp; Directions</a><BR>
 <BR>
-Cocktails at 6:00pm followed by dinner and awards<BR>
+Evening Program<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5:30 PM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;President&#39;s VIP Reception (Invite Only)<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6:00 PM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gala Reception<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6:45 PM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dinner & Award Show Commences<BR>
+Gala Attire Required<BR>
 <BR>
 Announcements
 </B></font>
@@ -30,6 +34,11 @@ Announcements
 <p>
 <font size="2">
 <table width="100%">
+	<tr>
+		<td>October 24, 2012</td>
+		<td>Tables and Individual Tickets are still available. Please go <a href="tickets.php">here</a> to order</a></td>
+	</tr>
+	<tr><td colspan="2"><hr></td></tr>
 	<tr>
 		<td>October 18, 2012</td>
 		<td>Award Finalists have been announced!</a></td>
