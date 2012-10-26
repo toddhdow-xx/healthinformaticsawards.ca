@@ -73,7 +73,7 @@ Cerner is contributing to the systemic change of health and care delivery. For m
 <tr><td><BR></td></tr>
 <tr><td><a href="http://www.gehealthcare.com/canada/it" target="arc2"><img src="images/ge_logo_2011.jpg" width="150px" align="right" style="border: none"></a></td>
 <td class="b">
-GE Healthcare is a global healthcare IT leader, with advanced expertise in clinical workflows, emerging industry standards and demonstrated implementation methodology. By collaborating with industry leaders the GE Healthcare&#39;s Centricity<sup>TM</sup> portfolio brings powerful tools that integrate across platforms to manage patient information and enable knowledge-based patient care. Healthcare IT Re-imagined. For more information go to <a href="http://www3.gehealthcare.com/en" target="arc2">www3.gehealthcare.com/en</a></td>
+GE Healthcare is a global healthcare IT leader, with advanced expertise in clinical workflows, emerging industry standards and demonstrated implementation methodology. By collaborating with industry leaders the GE Healthcare&#39;s Centricity<sup>TM</sup> portfolio brings powerful tools that integrate across platforms to manage patient information and enable knowledge-based patient care. Healthcare IT Re-imagined. For more information go to <a href="http://www.gehealthcare.com/canada/it/index.html" target="arc2">http://www.gehealthcare.com/canada/it/index.html</a></td>
 </tr>
 </table>
 <hr>
